@@ -1,0 +1,62 @@
+{
+  "previous": "Some URL for previous page",
+  "next": "Some URL for next page",
+  "results": [
+    {
+      "first_name": "ahmed",
+      "last_name": "kharbouch",
+      "email": "kharbouch@gmail.com",
+      "phone": "+911234567890",
+      "verified": false
+    },
+    {
+      "first_name": "mohammed",
+      "last_name": "Nadim",
+      "email": "Nadim@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
+    },
+    {
+      "first_name": "yassmine",
+      "last_name": "Nandal",
+      "email": "yassmine@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
+    },
+    {
+      "first_name": "chaimaa",
+      "last_name": "lahlou",
+      "email": "chaimaa@gmail.com",
+      "phone": "+911234567890",
+      "verified": false
+    },
+    {
+      "first_name": "rania",
+      "last_name": "Berrada",
+      "email": "Berrada@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
+    },
+    {
+      "first_name": "hicham",
+      "last_name": "nafir",
+      "email": "nafir@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
+    },
+    {
+      "first_name": "laila",
+      "last_name": "sabir",
+      "email": "sabir@gmail.com",
+      "phone": "+911234567890",
+      "verified": false
+    },
+    {
+      "first_name": "michel",
+      "last_name": "bongars",
+      "email": "bongars@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
+    }
+  ]
+}
